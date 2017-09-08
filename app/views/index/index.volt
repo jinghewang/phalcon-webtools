@@ -9,3 +9,7 @@
 <p>
     <a target="_blank" href="/webtools.php"><strong>Phalcon WebTools</strong></a>
 </p>
+
+<p>
+    <a target="_blank" href="/riderUser/search"><strong>Example for RiderUser</strong></a>
+</p>
